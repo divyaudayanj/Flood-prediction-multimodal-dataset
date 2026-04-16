@@ -1,4 +1,4 @@
-# Minimal Multimodal Flood Prediction Demo
+#  Multimodal Flood Prediction Demo
 
 This is a minimal demo implementation of a multimodal flood prediction pipeline.
 
